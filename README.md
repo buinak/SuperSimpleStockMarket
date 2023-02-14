@@ -20,6 +20,7 @@ The default precision for decimals is 4, and the rounding is HALF-UP for all cal
 
 Tests are limited -- I added tests for the main requirements -- so for the ComputeService --
 to test them. Normally, all services would have their separate unit/integration tests.
+Tests use sample data provided whenever possible.
 
 No logging done -- but for a real application would be a must.
 
