@@ -3,9 +3,6 @@
 This project is the deliverable for the take-home assignment by JP Morgan -- "Super Simple 
 Stock Market".
 
-The PDF describing the precise requirements is bundled together and can be found in the root
-folder of the project.
-
 ### Assumptions
 
 Stock ticker price is calculated in a simple manner -- stock data service will return either 
